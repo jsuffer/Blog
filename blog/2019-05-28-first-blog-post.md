@@ -9,4 +9,4 @@ authors:
 tags: [hola, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum or eros aliquam consequat. Lorem ipsum dolor 这是一个测试！sit amet
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum or eros aliquam consequat. Lorem ipsum dolor sit amet
