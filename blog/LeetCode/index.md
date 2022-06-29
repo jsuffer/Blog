@@ -1,6 +1,6 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: test-blog-post
+title: Test Blog Post
 authors:
   name: esmmol
   title: Docusaurus Core Team
